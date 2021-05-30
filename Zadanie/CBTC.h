@@ -94,6 +94,4 @@ void PacketIntervalChanged (int32_t oldValue, int32_t newValue);
 // callback na prijatie paketu
 void ReceivePacket (Ptr<Socket> socket);
 
-/***************************************** vytvaranie grafov *********************************************/
-
 #endif
